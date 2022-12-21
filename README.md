@@ -1,6 +1,7 @@
 dht-CT
 ======
 
+Quellcode zum auslesen des DHT 11 Sensors am Cubietruck mit den GPIO´s
 
 
 DHT 11 Sensor Auslesen
